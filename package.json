@@ -1,0 +1,22 @@
+{
+  "name": "ohmyfood",
+  "version": "1.0.0",
+  "description": "Mon Projet p3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevMaco/ohmyfood.git"
+  },
+  "author": "Guillaume Jean-Marc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevMaco/ohmyfood/issues"
+  },
+  "homepage": "https://github.com/DevMaco/ohmyfood#readme",
+  "devDependencies": {
+    "sass": "^1.49.9"
+  }
+}
